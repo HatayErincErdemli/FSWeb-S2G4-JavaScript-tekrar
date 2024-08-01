@@ -112,8 +112,8 @@ console.log(enkucuk)
 
 // 3b çözümü:
 
-sayilar.array.forEach(() => {
-  ucetambolunenler.push(sayilar[i])
+sayilar.forEach(() => {
+  
 });
 
 // 3c çözümü:
