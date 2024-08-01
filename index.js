@@ -112,7 +112,7 @@ console.log(enkucuk)
 
 // 3b çözümü:
 
-sayilar.forEach(() => {
+sayilar.forEach((sayilar) => { 
   
 });
 
